@@ -1,0 +1,50 @@
+{
+    "name":  "id-photo",
+    "logo":  "🪪",
+    "exe":  "IdPhoto.exe",
+    "desc":  "Free, open-source passport photo maker for Windows — crop presets, background swap, print sheets. 100 MB portable, offline, MIT, no watermark.",
+    "topics":  [
+                   "passport-photo",
+                   "id-photo",
+                   "photo-printing",
+                   "crop-presets",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "background-swap",
+                   "print-sheet",
+                   "dpi",
+                   "portrait",
+                   "offline",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Country size presets** — passport, visa and licence dimensions built in with head-position guides",
+                     "✅ **Background replacement** — a local cutout model swaps any backdrop for the required white or gray",
+                     "✅ **Print sheet layout** — sixteen photos arranged on a 10x15 sheet with cut marks, at true 300 dpi",
+                     "✅ **Compliance overlay** — head height and eye line guides sit over the crop so requirements are visible",
+                     "✅ **Lighting check** — shadow and glare warnings before you print, not after the office rejects it",
+                     "✅ **No watermark, no upload** — prints are clean and the portrait never leaves the machine",
+                     "✅ **100 MB self-contained exe** — runtime bundled, models download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **id-photo** | Online passport tools | Photoshop | Photo booth |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Paid per sheet | Subscription | Per session |",
+                    "| Open source | **Yes** | No | No | No",
+                    "| Portraits stay local | **Yes** | Upload | Yes | Yes",
+                    "| No watermark | **Yes** | Rare | Yes | Yes",
+                    "| Compliance guides | **Yes** | Partial | Manual | Yes",
+                    "| Portable, no install | **Yes, 100 MB** | Browser | Installer | N/A"
+                ],
+    "faqQ":  "how to make a passport photo at home for free on Windows?",
+    "faqA":  "Online makers get their payback through watermarks, uploads and per-sheet fees, and studios charge for a two-minute crop. id-photo applies the right dimensions, swaps the background locally and lays out a print sheet at true dpi. It is a 100 MB portable exe, MIT, offline.",
+    "s1":  "Dark studio (#121418, blue #2563EB): portrait centered with head-height and eye-line guides overlaid, preset dropdown reading US passport 2x2, background chip set to white.",
+    "s2":  "Print sheet preview: sixteen copies on a 10x15 canvas with cut marks, dpi badge reading 300, printer margin warning resolved in green.",
+    "s3":  "Compliance panel: lighting score, shadow note under the left jaw, retake hint, export PNG and print buttons side by side."
+}
